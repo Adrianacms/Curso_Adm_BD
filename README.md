@@ -13,7 +13,7 @@ Desenvolver a educação profissional integrada ao trabalho, à ciência
 - Definir configurações de segurança e serviços;
 - Utilizar ferramentas para monitoração em SGBD - Sistema de Gerenciamento de Banco de Dados;
 
----
+--
 
 > ## Disciplina **#01 - Conceitos Gerais Sobre Banco de Dados**
 
@@ -64,13 +64,7 @@ Desenvolver a educação profissional integrada ao trabalho, à ciência
   - Conceitos sobre Modelo Lógico. 
   - Dicionário de Dados.
 
-- ### Atividades da Disciplina:
 
-  - [Aula 05](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2005)
-
-  - [Aula 06](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2006)
-
-  - [Aula 07](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2007)
   
-  - [Atividade final](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Atividade%20final)
+  
 
